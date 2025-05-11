@@ -70,15 +70,12 @@ The results from each classifier, sorted by accuracy, are displayed as follows:
 
 ## How to Run
 
-1. Download the dataset from Kaggle and extract it to a directory named `brain_tumor_dataset`.
-2. Place this script in the same directory as your dataset.
-3. Run the script to start training and evaluating the classifiers.
+1. Download the dataset from Kaggle using the following link:  
+   [Brain MRI Images for Brain Tumor Detection](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection/data)
+   
+2. Extract the dataset to a directory named `brain_tumor_dataset`.
 
-```bash
-python brain_tumor_detection.py
-```
-
-Make sure to update the dataset path in the script if necessary.
+3. Open and run the Jupyter Notebook `brain_tumor_detection.ipynb` to train the model and perform predictions.
 
 ## License
 
