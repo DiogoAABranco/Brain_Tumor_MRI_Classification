@@ -68,6 +68,12 @@ The results from each classifier, sorted by accuracy, are displayed as follows:
 | Decision Tree          | 0.703704 | 0.703704  | 0.703704| 0.703297 |
 | K-Nearest Neighbors    | 0.685185 | 0.685185  | 0.685185| 0.685077 |
 
+
+#### Correlation Matrix
+
+![Correlation Matrix](Correlation_Matrix.png)
+
+
 ## How to Run
 
 1. Download the dataset from Kaggle using the following link:  
@@ -77,6 +83,4 @@ The results from each classifier, sorted by accuracy, are displayed as follows:
 
 3. Open and run the Jupyter Notebook `brain_tumor_detection.ipynb` to train the model and perform predictions.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
